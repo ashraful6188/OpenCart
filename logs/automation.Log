@@ -1,0 +1,197 @@
+2024-10-06 10:51:43 INFO  AccountRegistrationTest:57 -**********Launching application********
+2024-10-06 10:51:46 INFO  AccountRegistrationTest:14 -*******Stating Account Registration Test ********
+2024-10-06 10:51:46 INFO  AccountRegistrationTest:21 -*** clickin on my account ***
+2024-10-06 10:51:46 INFO  AccountRegistrationTest:23 -*** clickin on Register ***
+2024-10-06 10:51:47 INFO  AccountRegistrationTest:28 -***Providing customer information***
+2024-10-06 10:51:49 INFO  AccountRegistrationTest:39 -Validating expected Massage
+2024-10-06 10:51:49 INFO  AccountRegistrationTest:43 -Account Registration test passed
+2024-10-06 10:51:49 INFO  AccountRegistrationTest:49 -***** Finished account registration testing *****
+2024-10-06 10:51:52 INFO  LoginTest:57 -**********Launching application********
+2024-10-06 10:51:55 INFO  LoginTest:15 -********* Stating Login Test ********
+2024-10-06 10:51:56 INFO  LoginTest:22 -********* Cliked on login button ********
+2024-10-06 10:51:56 INFO  LoginTest:26 -*****adding credtial ****
+2024-10-06 10:51:58 INFO  LoginTest:31 -********* Cliked on login button ********
+2024-10-06 10:51:58 INFO  LoginTest:40 -***Login test completed ****
+2024-10-06 14:31:07 INFO  AccountRegistrationTest:57 -**********Launching application********
+2024-10-06 14:31:10 INFO  AccountRegistrationTest:14 -*******Stating Account Registration Test ********
+2024-10-06 14:31:11 INFO  AccountRegistrationTest:21 -*** clickin on my account ***
+2024-10-06 14:31:11 INFO  AccountRegistrationTest:23 -*** clickin on Register ***
+2024-10-06 14:31:11 INFO  AccountRegistrationTest:28 -***Providing customer information***
+2024-10-06 14:31:13 INFO  AccountRegistrationTest:39 -Validating expected Massage
+2024-10-06 14:31:13 INFO  AccountRegistrationTest:43 -Account Registration test passed
+2024-10-06 14:31:13 INFO  AccountRegistrationTest:49 -***** Finished account registration testing *****
+2024-10-06 14:31:14 INFO  LoginTest:57 -**********Launching application********
+2024-10-06 14:31:17 INFO  LoginTest:15 -********* Stating Login Test ********
+2024-10-06 14:31:17 INFO  LoginTest:22 -********* Cliked on login button ********
+2024-10-06 14:31:17 INFO  LoginTest:26 -*****adding credtial ****
+2024-10-06 14:31:18 INFO  LoginTest:31 -********* Cliked on login button ********
+2024-10-06 14:31:18 INFO  LoginTest:40 -***Login test completed ****
+2024-10-06 14:36:32 INFO  AccountRegistrationTest:57 -**********Launching application********
+2024-10-06 14:36:34 INFO  AccountRegistrationTest:14 -*******Stating Account Registration Test ********
+2024-10-06 14:36:34 INFO  AccountRegistrationTest:21 -*** clickin on my account ***
+2024-10-06 14:36:35 INFO  AccountRegistrationTest:23 -*** clickin on Register ***
+2024-10-06 14:36:35 INFO  AccountRegistrationTest:28 -***Providing customer information***
+2024-10-06 14:36:37 INFO  AccountRegistrationTest:39 -Validating expected Massage
+2024-10-06 14:36:37 INFO  AccountRegistrationTest:43 -Account Registration test passed
+2024-10-06 14:36:37 INFO  AccountRegistrationTest:49 -***** Finished account registration testing *****
+2024-10-06 14:36:38 INFO  LoginTest:57 -**********Launching application********
+2024-10-06 14:36:41 INFO  LoginTest:15 -********* Stating Login Test ********
+2024-10-06 14:36:41 INFO  LoginTest:22 -********* Cliked on login button ********
+2024-10-06 14:36:41 INFO  LoginTest:26 -*****adding credtial ****
+2024-10-06 14:36:42 INFO  LoginTest:31 -********* Cliked on login button ********
+2024-10-06 14:36:42 INFO  LoginTest:40 -***Login test completed ****
+2024-10-06 14:37:53 INFO  AccountRegistrationTest:57 -**********Launching application********
+2024-10-06 14:37:56 INFO  AccountRegistrationTest:14 -*******Stating Account Registration Test ********
+2024-10-06 14:37:56 INFO  AccountRegistrationTest:21 -*** clickin on my account ***
+2024-10-06 14:37:56 INFO  AccountRegistrationTest:23 -*** clickin on Register ***
+2024-10-06 14:37:57 INFO  AccountRegistrationTest:28 -***Providing customer information***
+2024-10-06 14:37:58 INFO  AccountRegistrationTest:39 -Validating expected Massage
+2024-10-06 14:37:58 INFO  AccountRegistrationTest:43 -Account Registration test passed
+2024-10-06 14:37:58 INFO  AccountRegistrationTest:49 -***** Finished account registration testing *****
+2024-10-06 14:38:00 INFO  LoginTest:57 -**********Launching application********
+2024-10-06 14:38:02 INFO  LoginTest:15 -********* Stating Login Test ********
+2024-10-06 14:38:03 INFO  LoginTest:22 -********* Cliked on login button ********
+2024-10-06 14:38:03 INFO  LoginTest:26 -*****adding credtial ****
+2024-10-06 14:38:04 INFO  LoginTest:31 -********* Cliked on login button ********
+2024-10-06 14:38:04 INFO  LoginTest:40 -***Login test completed ****
+2024-10-06 14:44:02 INFO  AccountRegistrationTest:57 -**********Launching application********
+2024-10-06 14:44:06 INFO  AccountRegistrationTest:14 -*******Stating Account Registration Test ********
+2024-10-06 14:44:06 INFO  AccountRegistrationTest:21 -*** clickin on my account ***
+2024-10-06 14:44:06 INFO  AccountRegistrationTest:23 -*** clickin on Register ***
+2024-10-06 14:44:07 INFO  AccountRegistrationTest:28 -***Providing customer information***
+2024-10-06 14:44:09 INFO  AccountRegistrationTest:39 -Validating expected Massage
+2024-10-06 14:44:09 INFO  AccountRegistrationTest:43 -Account Registration test passed
+2024-10-06 14:44:09 INFO  AccountRegistrationTest:49 -***** Finished account registration testing *****
+2024-10-06 14:44:10 INFO  LoginTest:57 -**********Launching application********
+2024-10-06 14:44:12 INFO  LoginTest:15 -********* Stating Login Test ********
+2024-10-06 14:44:13 INFO  LoginTest:22 -********* Cliked on login button ********
+2024-10-06 14:44:13 INFO  LoginTest:26 -*****adding credtial ****
+2024-10-06 14:44:14 INFO  LoginTest:31 -********* Cliked on login button ********
+2024-10-06 14:44:14 INFO  LoginTest:40 -***Login test completed ****
+2024-10-06 14:44:50 INFO  AccountRegistrationTest:57 -**********Launching application********
+2024-10-06 14:44:53 INFO  AccountRegistrationTest:14 -*******Stating Account Registration Test ********
+2024-10-06 14:44:53 INFO  AccountRegistrationTest:21 -*** clickin on my account ***
+2024-10-06 14:44:53 INFO  AccountRegistrationTest:23 -*** clickin on Register ***
+2024-10-06 14:44:53 INFO  AccountRegistrationTest:28 -***Providing customer information***
+2024-10-06 14:44:55 INFO  AccountRegistrationTest:39 -Validating expected Massage
+2024-10-06 14:44:55 INFO  AccountRegistrationTest:43 -Account Registration test passed
+2024-10-06 14:44:55 INFO  AccountRegistrationTest:49 -***** Finished account registration testing *****
+2024-10-06 14:44:56 INFO  LoginTest:57 -**********Launching application********
+2024-10-06 14:44:59 INFO  LoginTest:15 -********* Stating Login Test ********
+2024-10-06 14:45:00 INFO  LoginTest:22 -********* Cliked on login button ********
+2024-10-06 14:45:00 INFO  LoginTest:26 -*****adding credtial ****
+2024-10-06 14:45:01 INFO  LoginTest:31 -********* Cliked on login button ********
+2024-10-06 14:45:01 INFO  LoginTest:40 -***Login test completed ****
+2024-10-06 14:48:46 INFO  AccountRegistrationTest:57 -**********Launching application********
+2024-10-06 14:48:48 INFO  AccountRegistrationTest:14 -*******Stating Account Registration Test ********
+2024-10-06 14:48:48 INFO  AccountRegistrationTest:21 -*** clickin on my account ***
+2024-10-06 14:48:49 INFO  AccountRegistrationTest:23 -*** clickin on Register ***
+2024-10-06 14:48:49 INFO  AccountRegistrationTest:28 -***Providing customer information***
+2024-10-06 14:48:51 INFO  AccountRegistrationTest:39 -Validating expected Massage
+2024-10-06 14:48:51 INFO  AccountRegistrationTest:43 -Account Registration test passed
+2024-10-06 14:48:51 INFO  AccountRegistrationTest:49 -***** Finished account registration testing *****
+2024-10-06 14:48:52 INFO  LoginTest:57 -**********Launching application********
+2024-10-06 14:48:55 INFO  LoginTest:15 -********* Stating Login Test ********
+2024-10-06 14:48:55 INFO  LoginTest:22 -********* Cliked on login button ********
+2024-10-06 14:48:55 INFO  LoginTest:26 -*****adding credtial ****
+2024-10-06 14:48:56 INFO  LoginTest:31 -********* Cliked on login button ********
+2024-10-06 14:48:56 INFO  LoginTest:40 -***Login test completed ****
+2024-10-06 15:25:39 INFO  AccountRegistrationTest:57 -**********Launching application********
+2024-10-06 15:26:07 INFO  AccountRegistrationTest:14 -*******Stating Account Registration Test ********
+2024-10-06 15:26:07 INFO  AccountRegistrationTest:21 -*** clickin on my account ***
+2024-10-06 15:26:07 INFO  AccountRegistrationTest:23 -*** clickin on Register ***
+2024-10-06 15:26:13 INFO  AccountRegistrationTest:28 -***Providing customer information***
+2024-10-06 15:26:20 INFO  AccountRegistrationTest:39 -Validating expected Massage
+2024-10-06 15:26:21 INFO  AccountRegistrationTest:43 -Account Registration test passed
+2024-10-06 15:26:21 INFO  AccountRegistrationTest:49 -***** Finished account registration testing *****
+2024-10-06 15:26:22 INFO  LoginTest:57 -**********Launching application********
+2024-10-06 15:26:37 INFO  LoginTest:15 -********* Stating Login Test ********
+2024-10-06 15:26:37 INFO  LoginTest:22 -********* Cliked on login button ********
+2024-10-06 15:26:37 INFO  LoginTest:26 -*****adding credtial ****
+2024-10-06 15:26:38 INFO  LoginTest:31 -********* Cliked on login button ********
+2024-10-06 15:26:38 INFO  LoginTest:40 -***Login test completed ****
+2024-10-06 20:41:04 INFO  AccountRegistrationTest:57 -**********Launching application********
+2024-10-06 20:41:06 INFO  AccountRegistrationTest:14 -*******Stating Account Registration Test ********
+2024-10-06 20:41:07 INFO  AccountRegistrationTest:21 -*** clickin on my account ***
+2024-10-06 20:41:07 INFO  AccountRegistrationTest:23 -*** clickin on Register ***
+2024-10-06 20:41:07 INFO  AccountRegistrationTest:28 -***Providing customer information***
+2024-10-06 20:41:09 INFO  AccountRegistrationTest:39 -Validating expected Massage
+2024-10-06 20:41:09 INFO  AccountRegistrationTest:43 -Account Registration test passed
+2024-10-06 20:41:09 INFO  AccountRegistrationTest:49 -***** Finished account registration testing *****
+2024-10-06 20:41:10 INFO  LoginTest:57 -**********Launching application********
+2024-10-06 20:41:13 INFO  LoginTest:15 -********* Stating Login Test ********
+2024-10-06 20:41:13 INFO  LoginTest:22 -********* Cliked on login button ********
+2024-10-06 20:41:13 INFO  LoginTest:26 -*****adding credtial ****
+2024-10-06 20:41:14 INFO  LoginTest:31 -********* Cliked on login button ********
+2024-10-06 20:41:14 INFO  LoginTest:40 -***Login test completed ****
+2024-10-06 20:46:15 INFO  AccountRegistrationTest:57 -**********Launching application********
+2024-10-06 20:46:18 INFO  AccountRegistrationTest:14 -*******Stating Account Registration Test ********
+2024-10-06 20:46:18 INFO  AccountRegistrationTest:21 -*** clickin on my account ***
+2024-10-06 20:46:18 INFO  AccountRegistrationTest:23 -*** clickin on Register ***
+2024-10-06 20:46:18 INFO  AccountRegistrationTest:28 -***Providing customer information***
+2024-10-06 20:46:20 INFO  AccountRegistrationTest:39 -Validating expected Massage
+2024-10-06 20:46:20 INFO  AccountRegistrationTest:43 -Account Registration test passed
+2024-10-06 20:46:20 INFO  AccountRegistrationTest:49 -***** Finished account registration testing *****
+2024-10-06 20:46:21 INFO  LoginTest:57 -**********Launching application********
+2024-10-06 20:46:24 INFO  LoginTest:15 -********* Stating Login Test ********
+2024-10-06 20:46:24 INFO  LoginTest:22 -********* Cliked on login button ********
+2024-10-06 20:46:24 INFO  LoginTest:26 -*****adding credtial ****
+2024-10-06 20:46:25 INFO  LoginTest:31 -********* Cliked on login button ********
+2024-10-06 20:46:25 INFO  LoginTest:40 -***Login test completed ****
+2024-10-06 20:47:58 INFO  AccountRegistrationTest:57 -**********Launching application********
+2024-10-06 20:48:00 INFO  AccountRegistrationTest:14 -*******Stating Account Registration Test ********
+2024-10-06 20:48:00 INFO  AccountRegistrationTest:21 -*** clickin on my account ***
+2024-10-06 20:48:00 INFO  AccountRegistrationTest:23 -*** clickin on Register ***
+2024-10-06 20:48:01 INFO  AccountRegistrationTest:28 -***Providing customer information***
+2024-10-06 20:48:02 INFO  AccountRegistrationTest:39 -Validating expected Massage
+2024-10-06 20:48:02 INFO  AccountRegistrationTest:43 -Account Registration test passed
+2024-10-06 20:48:02 INFO  AccountRegistrationTest:49 -***** Finished account registration testing *****
+2024-10-06 20:48:04 INFO  LoginTest:57 -**********Launching application********
+2024-10-06 20:48:06 INFO  LoginTest:15 -********* Stating Login Test ********
+2024-10-06 20:48:07 INFO  LoginTest:22 -********* Cliked on login button ********
+2024-10-06 20:48:07 INFO  LoginTest:26 -*****adding credtial ****
+2024-10-06 20:48:08 INFO  LoginTest:31 -********* Cliked on login button ********
+2024-10-06 20:48:08 INFO  LoginTest:40 -***Login test completed ****
+2024-10-06 20:49:15 INFO  AccountRegistrationTest:57 -**********Launching application********
+2024-10-06 20:49:18 INFO  AccountRegistrationTest:14 -*******Stating Account Registration Test ********
+2024-10-06 20:49:18 INFO  AccountRegistrationTest:21 -*** clickin on my account ***
+2024-10-06 20:49:18 INFO  AccountRegistrationTest:23 -*** clickin on Register ***
+2024-10-06 20:49:19 INFO  AccountRegistrationTest:28 -***Providing customer information***
+2024-10-06 20:49:20 INFO  AccountRegistrationTest:39 -Validating expected Massage
+2024-10-06 20:49:20 INFO  AccountRegistrationTest:43 -Account Registration test passed
+2024-10-06 20:49:20 INFO  AccountRegistrationTest:49 -***** Finished account registration testing *****
+2024-10-06 20:49:21 INFO  LoginTest:57 -**********Launching application********
+2024-10-06 20:49:24 INFO  LoginTest:15 -********* Stating Login Test ********
+2024-10-06 20:49:24 INFO  LoginTest:22 -********* Cliked on login button ********
+2024-10-06 20:49:24 INFO  LoginTest:26 -*****adding credtial ****
+2024-10-06 20:49:26 INFO  LoginTest:31 -********* Cliked on login button ********
+2024-10-06 20:49:26 INFO  LoginTest:40 -***Login test completed ****
+2024-10-06 20:50:09 WARN  TestNG:133 -Ignoring duplicate listener : Utilities.ExtentReportManager
+2024-10-06 20:50:11 INFO  AccountRegistrationTest:57 -**********Launching application********
+2024-10-06 20:50:14 INFO  AccountRegistrationTest:14 -*******Stating Account Registration Test ********
+2024-10-06 20:50:14 INFO  AccountRegistrationTest:21 -*** clickin on my account ***
+2024-10-06 20:50:14 INFO  AccountRegistrationTest:23 -*** clickin on Register ***
+2024-10-06 20:50:14 INFO  AccountRegistrationTest:28 -***Providing customer information***
+2024-10-06 20:50:16 INFO  AccountRegistrationTest:39 -Validating expected Massage
+2024-10-06 20:50:16 INFO  AccountRegistrationTest:43 -Account Registration test passed
+2024-10-06 20:50:16 INFO  AccountRegistrationTest:49 -***** Finished account registration testing *****
+2024-10-06 20:50:17 INFO  LoginTest:57 -**********Launching application********
+2024-10-06 20:50:20 INFO  LoginTest:15 -********* Stating Login Test ********
+2024-10-06 20:50:20 INFO  LoginTest:22 -********* Cliked on login button ********
+2024-10-06 20:50:20 INFO  LoginTest:26 -*****adding credtial ****
+2024-10-06 20:50:21 INFO  LoginTest:31 -********* Cliked on login button ********
+2024-10-06 20:50:21 INFO  LoginTest:40 -***Login test completed ****
+2024-10-06 20:50:24 INFO  AccountRegistrationTest:57 -**********Launching application********
+2024-10-06 20:50:26 INFO  AccountRegistrationTest:14 -*******Stating Account Registration Test ********
+2024-10-06 20:50:26 INFO  AccountRegistrationTest:21 -*** clickin on my account ***
+2024-10-06 20:50:26 INFO  AccountRegistrationTest:23 -*** clickin on Register ***
+2024-10-06 20:50:27 INFO  AccountRegistrationTest:28 -***Providing customer information***
+2024-10-06 20:50:29 INFO  AccountRegistrationTest:39 -Validating expected Massage
+2024-10-06 20:50:29 INFO  AccountRegistrationTest:43 -Account Registration test passed
+2024-10-06 20:50:29 INFO  AccountRegistrationTest:49 -***** Finished account registration testing *****
+2024-10-06 20:50:30 INFO  LoginTest:57 -**********Launching application********
+2024-10-06 20:50:33 INFO  LoginTest:15 -********* Stating Login Test ********
+2024-10-06 20:50:33 INFO  LoginTest:22 -********* Cliked on login button ********
+2024-10-06 20:50:33 INFO  LoginTest:26 -*****adding credtial ****
+2024-10-06 20:50:34 INFO  LoginTest:31 -********* Cliked on login button ********
+2024-10-06 20:50:34 INFO  LoginTest:40 -***Login test completed ****
