@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Suite">
+<suite name="Master Suite">
 
 	<listeners>
 		<listener class-name="Utilities.ExtentReportManager" />
@@ -11,8 +11,8 @@
 		<parameter name="browser" value="chrome" />
 		<classes>
 			 <class name="testCases.AccountRegistrationTest"/> 
-			<class name="testCases.LoginTest"/> 
-		<!--	<class name="testCases.LoginDDT" /> -->
+			 <class name="testCases.LoginTest"/> 
+			<class name="testCases.LoginDDT" /> 
 		</classes>
 	</test>
 </suite> 

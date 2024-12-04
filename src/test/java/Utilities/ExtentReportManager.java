@@ -3,10 +3,14 @@ package Utilities;
 import java.awt.Desktop;
 import java.io.File;
 import java.io.IOException;
+import java.net.URL;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
+import org.apache.commons.mail2.jakarta.DefaultAuthenticator;
+import org.apache.commons.mail2.jakarta.ImageHtmlEmail;
+import org.apache.commons.mail2.jakarta.resolver.DataSourceUrlResolver;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
@@ -27,7 +31,8 @@ public class ExtentReportManager implements ITestListener {
 	public String reportName;
 
 	public void onStart(ITestContext context) {
-//		 // for dynamic report, Ex Test-Report-2024.09.29.10.34.25   
+
+//		 // for dynamic report, Ex Test-Report-2024.09.29.10.34.25.html   
 //		 SimpleDateFormat df = new SimpleDateFormat("yyy.MM.dd.HH.mm.ss");
 //		 Date dt = new Date();
 //		 df.format(dt);
@@ -64,14 +69,14 @@ public class ExtentReportManager implements ITestListener {
 	public void onTestSuccess(ITestResult result) {
 		test = extent.createTest(result.getTestClass().getName());
 		test.assignCategory(result.getMethod().getGroups());
-		test.log(Status.PASS, result.getName() + "got passed.");
+		test.log(Status.PASS, result.getName() + "got passed !");
 
 	}
 
 	public void onTestFailure(ITestResult result) {
 		test = extent.createTest(result.getTestClass().getName());
 		test.assignCategory(result.getMethod().getGroups());
-		test.log(Status.FAIL, result.getName() + "got failed.");
+		test.log(Status.FAIL, result.getName() + "got failed !");
 		test.log(Status.INFO, result.getThrowable().getMessage());
 		try {
 			String imagePath = new BaseClass().captureScreenshot(result.getName());
@@ -84,7 +89,7 @@ public class ExtentReportManager implements ITestListener {
 	public void onTestSkipped(ITestResult result) {
 		test = extent.createTest(result.getTestClass().getName());
 		test.assignCategory(result.getMethod().getGroups());
-		test.log(Status.SKIP, result.getName() + "got skkiped !!");
+		test.log(Status.SKIP, result.getName() + "got skkiped !");
 		test.log(Status.INFO, result.getThrowable().getMessage());
 	}
 
@@ -98,6 +103,26 @@ public class ExtentReportManager implements ITestListener {
 
 			e.printStackTrace();
 		}
+
+//		try {
+//			URL url = new URL("file:///"+ System.getProperty("user.dir")+"/reports/"+reportName);
+//			// Create the email message
+//			ImageHtmlEmail email = new ImageHtmlEmail();
+//			email.setDataSourceResolver(new DataSourceUrlResolver(url));
+//			email.setHostName("smtp.googlemail.com");
+//			email.setSmtpPort(456);
+//			email.setAuthenticator(new DefaultAuthenticator("ashraful.Haq707@gmail.com", "password"));
+//			email.setSSLOnConnect(true);
+//			email.setFrom("ashraful.haq707@gamil.com");// Sender
+//			email.setSubject("Test Result");
+//			email.setMsg("Please find the attached report...");
+//			email.addTo("ashraful.haq6188@gmail.com");//Receiver
+//			email.attach(url, "extent report", "please check reoort...");
+//			email.send();
+//			
+//		}catch(Exception e) {
+//			e.printStackTrace();
+//		}
 
 	}
 

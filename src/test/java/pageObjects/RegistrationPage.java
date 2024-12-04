@@ -1,5 +1,6 @@
 package pageObjects;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -31,10 +32,13 @@ public class RegistrationPage extends BasePage {
 	WebElement btnContinue;
 	@FindBy(xpath = "//h1[text()='Your Account Has Been Created!']")
 	WebElement msgConfirmation;
-
+	
 	// Action Methods
 	public void setFirstName(String fname) {
-		txtFirstname.sendKeys(fname);
+	 txtFirstname.sendKeys(fname);
+//		JavascriptExecutor js = (JavascriptExecutor) driver;
+//		js.executeScript("arguments[0].value= 'fname';",txtFirstname );
+		
 	}
 
 	public void setLastName(String lname) {
@@ -73,8 +77,8 @@ public class RegistrationPage extends BasePage {
 		// act.moveToElement(btnContinue).click().perform()
 
 		// option 4
-		// JavascriptExecutor js = (JavascriptExecutor) driver;
-		// js.executeScript("arguments[0].click();",btnContinue );
+	//	 JavascriptExecutor js = (JavascriptExecutor) driver;
+	//	 js.executeScript("arguments[0].click();",btnContinue );
 
 		// options 5
 		// btnContinue.sendKeys(Keys.RETURN);

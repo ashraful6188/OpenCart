@@ -12,23 +12,23 @@ public class LoginTest extends BaseClass {
 	
 	@Test(groups= {"Regression", "Master"})
 	public void validateLogin() {
-		logger.info("********* Stating Login Test ********");
-		logger.debug("capturing application debug logs");
+		logger.info("*** Stating Login Test ***");
+		logger.debug("*** capturing LoginTest debug logs ***");
 		try {
 			// create a object of HomePage
 			HomePage homePage = new HomePage(driver);
 			homePage.clickOnMyAccount();
 			homePage.clickOnLogin();
-			logger.info("********* Cliked on login button ********");
+			logger.info("*** Cliked on login button ***");
 			
 			// loginPage
 			LoginPage loginPage = new LoginPage(driver);
-			logger.info("*****adding credtial ****");
+			logger.info("*** Adding credtial ***");
 			loginPage.setEmail(prop.getProperty("email"));
 			loginPage.setPassword(prop.getProperty("password"));
 			loginPage.clickLogin();
 
-			logger.info("********* Cliked on login button ********");
+			logger.info("*** Cliked on login button ***");
 
 			// My account
 			MyAccountPage myAcctPage = new MyAccountPage(driver);
@@ -37,7 +37,7 @@ public class LoginTest extends BaseClass {
 		} catch (Exception e) {
 			Assert.fail();
 		} finally {
-			logger.info("***Login test completed ****");
+			logger.info("*** LoginTest test completed ***");
 		}
 
 	}

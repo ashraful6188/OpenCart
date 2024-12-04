@@ -54,7 +54,7 @@ public class BaseClass {
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
-		logger.info("**********Launching application********");
+		logger.info("*** Launching application ***");
 		driver.get(prop.getProperty("appURL"));
 
 	}
@@ -87,7 +87,7 @@ public class BaseClass {
 
 	public String captureScreenshot(String name) {
 
-		String timeStamp = new SimpleDateFormat("yyy.MM.dd.HH.mm.ss").format(new Date());
+		String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
 		// TakesScreenshot takeScreenshot = (TakesScreenshot) driver;
 		File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 		String targetFilepath = System.getProperty("user.dir") + "/screenshots/" + name + "_" + timeStamp + ".png";

@@ -42,7 +42,7 @@ public class ExeclUtility {
 
 		fi = new FileInputStream(path);
 		workbook = new XSSFWorkbook(fi);
-		sheet = workbook.getSheet(sheetName);
+		sheet = workbook.getSheet(sheetName); // workbook.getSheetAt(0);
 		row = sheet.getRow(rownum);
 		int cellcount = row.getLastCellNum();
 		workbook.close();
@@ -62,7 +62,7 @@ public class ExeclUtility {
 		String data;
 		try {
 			// will return the formatted cell value as a string regardless of the cell value
-			data = formatter.formatCellValue(cell);
+			data = formatter.formatCellValue(cell); // data = cell.toString()
 		} catch (Exception e) {
 			data = "";
 		}
