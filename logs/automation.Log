@@ -1,30 +1,42 @@
-2024-12-01 23:21:24 INFO  Utils:112 -[TestNG] Running:
-  D:\Automation24\AutomationSep_2024\OpenCart\master.xml
-
-2024-12-01 23:21:26 INFO  AccountRegistrationTest:57 -*** Launching application ***
-2024-12-01 23:21:29 INFO  AccountRegistrationTest:13 -*** Stating Account Registration Test ***
-2024-12-01 23:21:29 INFO  AccountRegistrationTest:20 -*** Clicking on my account ***
-2024-12-01 23:21:29 INFO  AccountRegistrationTest:22 -*** Clicking on Register ***
-2024-12-01 23:21:30 INFO  AccountRegistrationTest:27 -*** Providing all customer information ***
-2024-12-01 23:21:32 INFO  AccountRegistrationTest:38 -*** Validating expected Massage ***
-2024-12-01 23:21:32 INFO  AccountRegistrationTest:42 -*** AccountRegistrationTest test passed ***
-2024-12-01 23:21:32 INFO  AccountRegistrationTest:57 -*** Finished AccountRegistrationTest testing ***
-2024-12-01 23:21:33 INFO  LoginTest:57 -*** Launching application ***
-2024-12-01 23:21:36 INFO  LoginTest:15 -*** Stating Login Test ***
-2024-12-01 23:21:36 INFO  LoginTest:22 -*** Cliked on login button ***
-2024-12-01 23:21:36 INFO  LoginTest:26 -*** Adding credtial ***
-2024-12-01 23:21:37 INFO  LoginTest:31 -*** Cliked on login button ***
-2024-12-01 23:21:37 INFO  LoginTest:40 -*** LoginTest test completed ***
-2024-12-01 23:21:38 INFO  LoginDDT:57 -*** Launching application ***
-2024-12-01 23:21:42 INFO  LoginDDT:24 -*** Stating LoginDDT Test ***
-2024-12-01 23:21:45 INFO  LoginDDT:61 -*** Fiinished Login DDT ***
-2024-12-01 23:21:45 INFO  LoginDDT:24 -*** Stating LoginDDT Test ***
-2024-12-01 23:21:51 INFO  LoginDDT:61 -*** Fiinished Login DDT ***
-2024-12-01 23:21:51 INFO  LoginDDT:24 -*** Stating LoginDDT Test ***
-2024-12-01 23:21:51 INFO  LoginDDT:61 -*** Fiinished Login DDT ***
-2024-12-01 23:21:51 INFO  LoginDDT:24 -*** Stating LoginDDT Test ***
-2024-12-01 23:21:51 INFO  LoginDDT:61 -*** Fiinished Login DDT ***
-2024-12-01 23:21:51 INFO  LoginDDT:24 -*** Stating LoginDDT Test ***
-2024-12-01 23:21:51 INFO  LoginDDT:61 -*** Fiinished Login DDT ***
-2024-12-01 23:21:51 INFO  LoginDDT:24 -*** Stating LoginDDT Test ***
-2024-12-01 23:21:51 INFO  LoginDDT:61 -*** Fiinished Login DDT ***
+2024-12-06 14:02:59 INFO  AccountRegistrationTest:100 -*** Launching application ***
+2024-12-06 14:03:01 INFO  AccountRegistrationTest:13 -*** Stating Account Registration Test ***
+2024-12-06 14:03:01 INFO  AccountRegistrationTest:20 -*** Clicking on my account ***
+2024-12-06 14:03:02 INFO  AccountRegistrationTest:22 -*** Clicking on Register ***
+2024-12-06 14:03:02 INFO  AccountRegistrationTest:27 -*** Providing all customer information ***
+2024-12-06 14:03:04 INFO  AccountRegistrationTest:38 -*** Validating expected Massage ***
+2024-12-06 14:03:04 INFO  AccountRegistrationTest:42 -*** AccountRegistrationTest test passed ***
+2024-12-06 14:03:04 INFO  AccountRegistrationTest:57 -*** Finished AccountRegistrationTest testing ***
+2024-12-06 14:03:05 INFO  LoginTest:100 -*** Launching application ***
+2024-12-06 14:03:08 INFO  LoginTest:15 -*** Stating Login Test ***
+2024-12-06 14:03:08 INFO  LoginTest:22 -*** Cliked on login button ***
+2024-12-06 14:03:08 INFO  LoginTest:26 -*** Adding credtial ***
+2024-12-06 14:03:09 INFO  LoginTest:31 -*** Cliked on login button ***
+2024-12-06 14:03:09 INFO  LoginTest:40 -*** LoginTest test completed ***
+2024-12-06 14:09:21 INFO  AccountRegistrationTest:100 -*** Launching application ***
+2024-12-06 14:09:24 INFO  AccountRegistrationTest:13 -*** Stating Account Registration Test ***
+2024-12-06 14:09:24 INFO  AccountRegistrationTest:20 -*** Clicking on my account ***
+2024-12-06 14:09:24 INFO  AccountRegistrationTest:22 -*** Clicking on Register ***
+2024-12-06 14:09:25 INFO  AccountRegistrationTest:27 -*** Providing all customer information ***
+2024-12-06 14:09:26 INFO  AccountRegistrationTest:38 -*** Validating expected Massage ***
+2024-12-06 14:09:26 INFO  AccountRegistrationTest:42 -*** AccountRegistrationTest test passed ***
+2024-12-06 14:09:26 INFO  AccountRegistrationTest:57 -*** Finished AccountRegistrationTest testing ***
+2024-12-06 14:09:28 INFO  LoginTest:100 -*** Launching application ***
+2024-12-06 14:09:30 INFO  LoginTest:15 -*** Stating Login Test ***
+2024-12-06 14:09:31 INFO  LoginTest:22 -*** Cliked on login button ***
+2024-12-06 14:09:31 INFO  LoginTest:26 -*** Adding credtial ***
+2024-12-06 14:09:32 INFO  LoginTest:31 -*** Cliked on login button ***
+2024-12-06 14:09:32 INFO  LoginTest:40 -*** LoginTest test completed ***
+2024-12-06 14:10:00 INFO  AccountRegistrationTest:100 -*** Launching application ***
+2024-12-06 14:10:04 INFO  AccountRegistrationTest:13 -*** Stating Account Registration Test ***
+2024-12-06 14:10:04 INFO  AccountRegistrationTest:20 -*** Clicking on my account ***
+2024-12-06 14:10:04 INFO  AccountRegistrationTest:22 -*** Clicking on Register ***
+2024-12-06 14:10:05 INFO  AccountRegistrationTest:27 -*** Providing all customer information ***
+2024-12-06 14:10:06 INFO  AccountRegistrationTest:38 -*** Validating expected Massage ***
+2024-12-06 14:10:06 INFO  AccountRegistrationTest:42 -*** AccountRegistrationTest test passed ***
+2024-12-06 14:10:06 INFO  AccountRegistrationTest:57 -*** Finished AccountRegistrationTest testing ***
+2024-12-06 14:10:08 INFO  LoginTest:100 -*** Launching application ***
+2024-12-06 14:10:10 INFO  LoginTest:15 -*** Stating Login Test ***
+2024-12-06 14:10:11 INFO  LoginTest:22 -*** Cliked on login button ***
+2024-12-06 14:10:11 INFO  LoginTest:26 -*** Adding credtial ***
+2024-12-06 14:10:12 INFO  LoginTest:31 -*** Cliked on login button ***
+2024-12-06 14:10:12 INFO  LoginTest:40 -*** LoginTest test completed ***
